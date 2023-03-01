@@ -1,0 +1,39 @@
+body {
+  background-color: #aae3e2;
+  background: url("img/tausta.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-family: "Barlow", sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 60px;
+}
+h3 {
+  font-family: "Barlow", sans-serif;
+  font-size: 16px;
+}
+h4 {
+  font-family: "Barlow", sans-serif;
+  font-size: 14px;
+}
+
+.nav-link {
+  color: black;
+}
+
+.navbar-custom {
+  background-color: #fdebed;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #aae3e2;
+}
+
+.frontpage-container {
+  background-color: #fdebed;
+}
